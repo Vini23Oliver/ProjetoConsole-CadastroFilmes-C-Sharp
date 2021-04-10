@@ -1,0 +1,16 @@
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\bin\Debug\net5.0\Cadastrofilmes.exe
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\bin\Debug\net5.0\Cadastrofilmes.deps.json
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\bin\Debug\net5.0\Cadastrofilmes.runtimeconfig.json
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\bin\Debug\net5.0\Cadastrofilmes.runtimeconfig.dev.json
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\bin\Debug\net5.0\Cadastrofilmes.dll
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\bin\Debug\net5.0\ref\Cadastrofilmes.dll
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\bin\Debug\net5.0\Cadastrofilmes.pdb
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\Cadastrofilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\Cadastrofilmes.AssemblyInfoInputs.cache
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\Cadastrofilmes.AssemblyInfo.cs
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\Cadastrofilmes.csproj.CoreCompileInputs.cache
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\Cadastrofilmes.dll
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\ref\Cadastrofilmes.dll
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\Cadastrofilmes.pdb
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\Cadastrofilmes.genruntimeconfig.cache
+C:\Users\vin_v\DIO\DIO.Filmes\Cadastrofilmes\obj\Debug\net5.0\Cadastrofilmes.csprojAssemblyReference.cache
